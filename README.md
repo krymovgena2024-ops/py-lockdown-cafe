@@ -140,8 +140,8 @@ Use the following project structure:
     errors.py
 ```
 
-All errors should be defined in the `errors.py` module.
-The `Cafe` class should be defined in `cafe.py` module.
+All errors should be defined in the `app/errors.py` module.
+The `Cafe` class should be defined in `app/cafe.py` module.
 The function should be implemented in `main.py` module.
 
 
